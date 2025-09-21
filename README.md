@@ -280,24 +280,6 @@ GOTO:EOF
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
-## 👥 Katkıda Bulunanlar
-
-- **Techolay** - Proje sahibi ve geliştirici
-- **Topluluk** - Sunucu önerileri ve test sonuçları
-
-## 📞 İletişim
-
-- **GitHub**: [@techolay](https://github.com/techolay)
-- **Email**: techolay@example.com
-- **Website**: https://techolay.net
-
-## 🙏 Teşekkürler
-
-- Tüm oyun geliştiricileri
-- DNS sağlayıcıları
-- Test eden kullanıcılar
-- Topluluk katkıları
-
 ---
 
 ⭐ **Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
